@@ -1,4 +1,4 @@
-# Python project for MCP server FCC
+# Python project for MCP server
 
 ## How to set up
 
