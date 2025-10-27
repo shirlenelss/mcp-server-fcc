@@ -1,0 +1,13 @@
+# Project metadata
+[project]
+name = "mcp-server-fcc"
+version = "0.1.0"
+description = "Python project for MCP server FCC"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.setuptools]
+packages = ["."]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
